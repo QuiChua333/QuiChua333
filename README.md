@@ -8,10 +8,10 @@
 <br>
 <p dir="auto">👨‍🎓 I’m student at UIT. <br><br> 📧 How to reach me <a href="mailto:quichua333@gmail.com">quichua333@gmail.com</a><br><br></p>
 <div align="center">
-  <a href="https://facebook.com/quichua333" target="blank">
+  <a href="https://facebook.com/quichua333" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quichua333-facebook" />
   </a>
-  <a href="https://instagram.com/quichua333" target="blank">
+  <a href="https://instagram.com/quichua333" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quichua333-instagram" />
   </a>
 
@@ -50,13 +50,15 @@
 <div align=center>
 <div align=center> 
   <a href="#" title="QuiChua333">
+   <a href="#" title="QuiChua333">
+    <img width="315" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuiChua333&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />  
+  </a>
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=QuiChua333&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=QuiChua333&theme=dark&hide_border=true" style="max-width: 100%;"></a>
+  
 </div>
-  <a href="#" title="QuiChua333">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuiChua333&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />  
-  </a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=QuiChua333&theme=dark&hide_border=true" style="max-width: 100%;"></a>
+ 
 
 </div>
 
