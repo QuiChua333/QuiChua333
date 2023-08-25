@@ -2,11 +2,11 @@
 <!-- <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a> -->
-<a target="_blank" rel="noopener noreferrer nofollow"><img alt="banner" style="width: 75vw; max-width: 100%;" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img alt="banner" style="width: 50vw; max-width: 100%;" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></a>
 
 <h2 align="center">🌟 About me 🌟</h2>
 <br>
-<p dir="auto" style="font-size:16px">👨‍🎓 I’m student at UIT. <br><br> 📧 How to reach me <a href="mailto:quichua333@gmail.com">quichua333@gmail.com</a><br><br></p>
+<p dir="auto" style="font-size: 16px !important">👨‍🎓 I’m student at UIT. <br><br> 📧 How to reach me <a href="mailto:quichua333@gmail.com">quichua333@gmail.com</a><br><br></p>
 <div align="center">g
   <a href="https://facebook.com/quichua333" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quichua333-facebook" />
